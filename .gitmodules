@@ -1,0 +1,3 @@
+[submodule "Plugins/XD_AutoGenSequencer"]
+	path = Plugins/XD_AutoGenSequencer
+	url = https://github.com/Eragon-Brisingr/XD_AutoGenSequencer.git
