@@ -73,4 +73,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# 忽略PM02的资源
 Content/TYM_Assets/*
+
+# 不忽略LipSync的资源
+!Plugins/OVRLipSync/ThirdParty/Lib/**/*
