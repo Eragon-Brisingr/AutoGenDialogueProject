@@ -7,7 +7,10 @@
 		{
 			"Name": "AutoGenDialogueP",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"XD_AutoGenSequencer_Editor"
+			]
 		}
 	]
 }
