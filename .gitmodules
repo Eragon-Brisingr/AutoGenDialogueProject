@@ -1,6 +1,6 @@
 [submodule "Plugins/XD_AutoGenSequencer"]
 	path = Plugins/XD_AutoGenSequencer
-	url = https://github.com/Eragon-Brisingr/XD_AutoGenSequencer.git
+	url = http://scarfskiynas.tpddns.cn:10080/arpg_developer/plugins/xd_autogensequencer.git
 [submodule "Plugins/XD_AutoGenSequencerEx"]
 	path = Plugins/XD_AutoGenSequencerEx
-	url = https://github.com/Eragon-Brisingr/XD_AutoGenSequencerEx.git
+	url = http://scarfskiynas.tpddns.cn:10080/arpg_developer/plugins/xd_autogensequencerex.git
